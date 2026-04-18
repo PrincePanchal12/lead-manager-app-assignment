@@ -1,2 +1,30 @@
-# lead-manager-app-assignment
-Created A simple Lead management UI as a part of Assignment for Software developer internship at Cleanomatics.
+# Lead Management App
+
+## Tech Stack
+
+* HTML, CSS, JavaScript
+* Node.js, Express
+
+## How to Run
+
+### Backend
+
+cd backend
+npm install
+node server.js
+
+### Frontend
+
+Open index.html in browser
+
+## Features
+
+* Add leads
+* Form validation
+* Display in table
+* API integration
+
+## Assumptions
+
+* Data stored in memory
+* No database used
